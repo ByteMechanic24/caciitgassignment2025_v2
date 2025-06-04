@@ -1,5 +1,5 @@
-# caciitgassignment2025_v2
-🌟 CACIITG Assignment 2025
+
+#🌟 CACIITG Assignment 2025
 Welcome to the official repository for Summer Analytics 2025 conducted by IIT Guwahati.
 This repository contains all the solutions and submissions for the completed assignments as part of the program.
 
